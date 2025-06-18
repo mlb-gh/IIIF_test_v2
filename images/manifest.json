@@ -7,5 +7,87 @@
             "All images loaded in mlb-gh/IIIF_test_v2 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_0897"
+                ]
+            },
+            "height": 1500,
+            "width": 1125,
+            "items": [
+                {
+                    "id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 36,
+                                                "height": 47
+                                            },
+                                            {
+                                                "width": 71,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 141,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 282,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 563,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1125,
+                                                "height": 1500
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1125,
+                                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1500,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
