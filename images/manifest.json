@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "25-75288m_UoN_Museum_U-33-96"
+                ]
+            },
+            "height": 5000,
+            "width": 3749,
+            "items": [
+                {
+                    "id": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 118,
+                                                "height": 157
+                                            },
+                                            {
+                                                "width": 235,
+                                                "height": 313
+                                            },
+                                            {
+                                                "width": 469,
+                                                "height": 625
+                                            },
+                                            {
+                                                "width": 938,
+                                                "height": 1250
+                                            },
+                                            {
+                                                "width": 1875,
+                                                "height": 2500
+                                            },
+                                            {
+                                                "width": 3749,
+                                                "height": 5000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3749,
+                                        "@id": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mlb-gh.github.io/IIIF_test_v2/images/25-75288m_UoN_Museum_U-33-96/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mlb-gh.github.io/IIIF_test_v2/images/IMG_0897/canvas/",
             "type": "Canvas",
             "label": {
