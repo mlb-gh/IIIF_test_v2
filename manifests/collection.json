@@ -1,0 +1,13 @@
+{
+  "id" : "https://mlb-gh.github.io/IIIF_test_v2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mlb-gh/IIIF_test_v2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mlb-gh.github.io/IIIF_test_v2/manifests/Me-Lm-1-f79r_manifest2.json",
+    "label" : "Me-Lm-1-f79r"
+  } ]
+}
